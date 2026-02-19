@@ -1,0 +1,5 @@
+{
+  "name": "Project Fit - Cheras",
+  "description": "Premium, aesthetic, and energetic fitness center in Cheras, Selangor. Offering Personal Training, HIIT, Yoga, and more.",
+  "requestFramePermissions": ["geolocation"]
+}
